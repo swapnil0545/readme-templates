@@ -56,7 +56,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Credits
 
-* **Swapnil Mhaske** - *Initial work* - [PurpleBooth](https://github.com/swapnil0545)🍓🍫
+* **Swapnil Mhaske** - *Initial work* - [swapnil0545](https://github.com/swapnil0545)🍓🍫
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
