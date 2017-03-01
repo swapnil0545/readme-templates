@@ -14,7 +14,7 @@ Insert a quick description of your project here.
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Credits](#credits)
-- [Build With](#built-with)
+- [Built With](#built-with)
 - [License](#license)
 
 ## Installation
